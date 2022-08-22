@@ -20,3 +20,7 @@
 6 == new action
      new view
      create form
+
+7 == create action(2 ways)
+     validates
+     error messages 
