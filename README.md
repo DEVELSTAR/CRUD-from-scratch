@@ -16,3 +16,7 @@
 5 == index action
      index view
      route
+
+6 == new action
+     new view
+     create form
