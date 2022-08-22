@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1 == rails new CRUD
 
-Things you may want to cover:
+2 == rails g controller Welcome
+     set root route
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3 == rails g model student first_name:string last_name:string email:string
+     rails db:migrate
+     resources :students
