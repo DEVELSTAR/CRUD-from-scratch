@@ -38,4 +38,6 @@
 11 == destroy action,
       link on index
 
-
+12 == dry in controller,
+      dry in views(partial),
+      how we pass local variable to forms 
