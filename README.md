@@ -41,3 +41,5 @@
 12 == dry in controller,
       dry in views(partial),
       how we pass local variable to forms 
+
+13 == notice(create,update,destroy)
