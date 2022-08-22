@@ -8,3 +8,7 @@
 3 == rails g model student first_name:string last_name:string email:string
      rails db:migrate
      resources :students
+
+4 == adding seed 
+     creating single/multiple data
+     rails db:seed
