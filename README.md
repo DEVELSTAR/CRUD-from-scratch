@@ -12,3 +12,7 @@
 4 == adding seed 
      creating single/multiple data
      rails db:seed
+
+5 == index action
+     index view
+     route
