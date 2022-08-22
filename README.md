@@ -26,6 +26,11 @@
      error messages 
 
 8 == show action,
-     link on index page
+     link on index page,
      show view
+
+
+9 == edit action,
+     link on index/show page,
+     edit view(=new view)
 
